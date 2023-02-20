@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T07:59:30.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.20" etag="qBJIxLBvPZYBgbc9S63h" type="github"><diagram name="第 1 页" id="HMWRqm7heYv_wWNzsk3a">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-20T08:11:38.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EHRIoWEfCaRRHmg7o9Qf" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="HMWRqm7heYv_wWNzsk3a">
+    <mxGraphModel dx="954" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;车辆销售管理后台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-5" value="统计中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-6" value="客户中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-7" value="订单中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-8" value="车辆中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-9" value="支持中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-10" value="配置中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-17" value="UAC权限管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-18" value="BPM流程引擎" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-12" value="业务组件库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;container=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-13" value="业务函数库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;container=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="420" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-14" value="rocket-render渲染引擎" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;container=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-19" value="" style="group;shadow=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="90" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3bfF6-vwVyLqUmoCLu92-19">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;微前端拆分&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3bfF6-vwVyLqUmoCLu92-19">
+          <mxGeometry y="80" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-16" value="系统支撑" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="3bfF6-vwVyLqUmoCLu92-19">
+          <mxGeometry y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bfF6-vwVyLqUmoCLu92-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;提效支撑&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="3bfF6-vwVyLqUmoCLu92-19">
+          <mxGeometry y="330" width="120" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
